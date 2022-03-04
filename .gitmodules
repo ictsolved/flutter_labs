@@ -1,0 +1,3 @@
+[submodule "touchwiz_messages_ui"]
+	path = touchwiz_messages_ui
+	url = ./touchwiz_messages_ui
